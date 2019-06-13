@@ -436,3 +436,7 @@ pub fn parse_device_events(rx: &Receiver<InputEvent>, ty: &Sender<DeviceEvent>, 
         }
     }
 }
+
+// TODO - dismiss go to page input field on click outside of field.
+
+// TODO - add font selector.
